@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Day-3---ClassWork/static/css/main.f5751ec8.css",
+    "main.js": "/Day-3---ClassWork/static/js/main.c32d76d5.js",
+    "static/js/453.ed3810f9.chunk.js": "/Day-3---ClassWork/static/js/453.ed3810f9.chunk.js",
+    "static/media/find-table.jpg": "/Day-3---ClassWork/static/media/find-table.837c2abbfa71c0be3657.jpg",
+    "static/media/home-container1.jpg": "/Day-3---ClassWork/static/media/home-container1.3c908a7237e3435e051a.jpg",
+    "static/media/girl-card.jpg": "/Day-3---ClassWork/static/media/girl-card.fc4e65a228847cab5fd5.jpg",
+    "index.html": "/Day-3---ClassWork/index.html",
+    "main.f5751ec8.css.map": "/Day-3---ClassWork/static/css/main.f5751ec8.css.map",
+    "main.c32d76d5.js.map": "/Day-3---ClassWork/static/js/main.c32d76d5.js.map",
+    "453.ed3810f9.chunk.js.map": "/Day-3---ClassWork/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5751ec8.css",
+    "static/js/main.c32d76d5.js"
+  ]
+}
